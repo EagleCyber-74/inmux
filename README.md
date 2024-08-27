@@ -4,14 +4,14 @@ Information ghatering
 Installation 
 ••••
 ```
-* apt update && apt upgrade
-* apt install wget
-* apt install git
-* git clone https://github.com/EagleCyber-74/inmux
-* cd inmux
-* sh inmux.sh
+ apt update && apt upgrade
+ apt install wget
+ apt install git
+ git clone https://github.com/EagleCyber-74/inmux
+ cd inmex
+ sh inmex.sh
 
-menu inmux
+menu 
 ••••
 * DNS Lookup
 * Reverse DNS Lookup                                                
